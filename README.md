@@ -39,6 +39,13 @@ Clone my project
   git clone https://github.com/rudranarayan-01/Email-Spam-Detection-ML-
  
 ```
+
+Run : 
+```bash
+   python app.py
+```
+
+
 Add some feature.. Thank you !!!
 ## Authors
 
